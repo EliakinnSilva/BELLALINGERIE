@@ -1,0 +1,16 @@
+body {
+	font-family: Arial, sans-serif;
+	color: #333;
+}
+
+header {
+	display: flex;
+}
+body {
+	background-image: linear-gradient(to bottom right, #ff69b4, #ff0000);
+}
+
+.body_pod {
+    background: linear-gradient(90deg, #000000, #1aff1a);
+  }
+  
